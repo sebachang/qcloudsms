@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cb7af"],{"4a9e":function(e,n,a){"use strict";a.r(n);var o=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("JobTable",{ref:"job_table"})},t=[],l=a("82a7"),b={name:"Job",components:{JobTable:l["a"]}},c=b,u=a("2877"),r=Object(u["a"])(c,o,t,!1,null,null,null);n["default"]=r.exports}}]);
